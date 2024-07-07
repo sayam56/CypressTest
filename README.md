@@ -1,1 +1,1 @@
-This repo is used to learn cypress
+Test automation using Cypress
